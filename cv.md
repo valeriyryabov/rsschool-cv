@@ -1,7 +1,7 @@
 # Резюме 
 *********
 ### Имя: Валерий Рябов 
-### Контакты для связи: ![tg-icon](/content/Logo.png "Telegram") @batuuu1337
+### Контакты для связи: <img src="https://valeriyryabov.github.io/rsschool-cv/content/Logo.png" width="23" height="23"/> batuuu1337
 
 *********
 ## Обо мне: 
